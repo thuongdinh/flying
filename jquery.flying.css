@@ -1,31 +1,31 @@
 /**     
- *	jquery.flying.js 1.0
- *  (c) 2011 Thuong Dinh Hoang.
+ *  jquery.flying.js 1.0
+ *  (c) 2011 Thuong Dinh Hoang, ASNET SOFTWARE.
  *  Flying is freely distributable under the MIT license.
  *  For all details and documentation:
  *  http://zneo99.github.com/flying
  */
 
 .flying-notification {
-	display: inline-block;
-	position: fixed;
-	width: 100%;
-	}
-	.flying-notification div {
-		display: inline-block;
-		padding: 3px 10px;
-		-webkit-border-radius: 3px;
-		-moz-border-radius: 3px;
-		border-radius: 3px;
-		font-weight: bolder;
-		font-size: 0.9em;
-		}
-	.flying-notification div.info,
-	.flying-notification div.success {
-		background: #fff1a8;
-		color: #000
-		}
-	.flying-notification div.error {
-		background: #ff6d4b;
-		color: #FFF
-		}
+    display: inline-block;
+    position: fixed;
+    width: 100%;
+    }
+    .flying-notification div {
+        display: inline-block;
+        padding: 3px 10px;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+        font-weight: bolder;
+        font-size: 0.9em;
+        }
+    .flying-notification div.info,
+    .flying-notification div.success {
+        background: #fff1a8;
+        color: #000
+        }
+    .flying-notification div.error {
+        background: #ff6d4b;
+        color: #FFF
+        }
