@@ -8,7 +8,7 @@ Getting Started
 
 Embedding css to head
 --------
-<link rel="stylesheet" type="text/css" href="resources/css/jquery.flying.css"/>
+<code><link rel="stylesheet" type="text/css" href="resources/css/jquery.flying.css"/></code>
 
 Embedding javascript library to the end of body
 --------
