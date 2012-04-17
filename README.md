@@ -8,12 +8,12 @@ Getting Started
 
 Embedding css to head
 --------
-<code><link rel="stylesheet" type="text/css" href="resources/css/jquery.flying.css"/></code>
+        <link rel="stylesheet" type="text/css" href="resources/css/jquery.flying.css"/>
 
 Embedding javascript library to the end of body
 --------
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
-<script type="text/javascript" src="js/jquery.flying.js"></script>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+        <script type="text/javascript" src="js/jquery.flying.js"></script>
 
 Using it
 --------
