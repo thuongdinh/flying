@@ -18,12 +18,22 @@ Embedding javascript library to the end of body
 Using it
 --------
 1. Create first Hello world message:
+
     $.flying().show("This is Hello world message ...")
+
 2. Create error style message:
+
     $.flying().show("This is Error message ...", "error")
+
 3. Hide message:
+
     $.flying().hide()
+
 4. Create auto hiding message:
+
     $.flying().show("This message will auto hide after 3 seconds ...").wait(3000).hide();
+
 5. And more ... :
+
     $.flying().show("This message display in 3 seconds after be changed ...").wait(3000).show("This message display in 5 seconds after be hided ...")wait(5000).hide();
+    
