@@ -1,5 +1,5 @@
 Overview
-========
+=========
 
 Flying is a jQuery plugin that create an "On the flying notification box" (like gmail notification).
 	
