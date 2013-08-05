@@ -1,6 +1,6 @@
 /**     
  *  jquery.flying.js 1.0
- *  (c) 2011 Thuong Dinh Hoang, ASNET SOFTWARE.
+ *  (c) 2011 Thuong Dinh Hoang, AsNet Co., Ltd.
  *  Flying is freely distributable under the MIT license.
  *  For all details and documentation:
  *  http://zneo99.github.com/flying

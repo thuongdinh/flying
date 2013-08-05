@@ -36,4 +36,3 @@ Using it
 5. And more ... :
 
     $.flying().show("This message display in 3 seconds after be changed ...").wait(3000).show("This message display in 5 seconds after be hided ...")wait(5000).hide();
-    
