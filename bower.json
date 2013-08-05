@@ -1,0 +1,16 @@
+{
+  "name": "flying",
+  "version": "1.0.0",
+  "main": "jquery.flying.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest"
+  }
+}
